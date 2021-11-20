@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BikeHelper</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="rescue_safely">Rescue safely</string>
+    <string name="skip">Skip</string>
+    <string name="bike_helper">BikeHelper</string>
+    <string name="text">Quick and easy rescue gives you a sense of security.</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_name">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="call_rescue">Call Rescue</string>
+    <string name="address">Address</string>
+    <string name="call_now">call now</string>
+    <string name="register_now">Do you have an account? register now</string>
+    <string name="maps">Maps</string>
+    <string name="rescuers">Rescuers</string>
+    <string name="find">Find</string>
+</resources>

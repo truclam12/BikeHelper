@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1175925925925926" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/bg_round.xml" value="0.15" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/custom_button.xml" value="0.16203703703703703" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/custom_color.xml" value="0.1780590717299578" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/edit_text_bg.xml" value="0.1" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/editbox_background.xml" value="0.15462962962962962" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11944444444444445" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/ic_location.xml" value="0.18034188034188034" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/ic_location_on.xml" value="0.18034188034188034" />
+        <entry key="..\:/BikeHelper/app/src/main/res/drawable/ic_phone.xml" value="0.21979166666666666" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout-v21/activity_main.xml" value="0.1" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout-v21/activity_maps.xml" value="0.20364583333333333" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/activity_map.xml" value="0.1" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/activity_switch.xml" value="0.1675213675213675" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/activity_user_rescuers.xml" value="0.22" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/bottom_login_dialog.xml" value="0.2" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/bottom_register_dialog.xml" value="0.22" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.22" />
+        <entry key="..\:/BikeHelper/app/src/main/res/layout/bottom_signup_dialog.xml" value="0.22" />
+        <entry key="..\:/BikeHelper/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
